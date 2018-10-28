@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  min-height: 100vh;
+  font-family: 'Lato', sans-serif;
+}
+
+.content {
+  height: 600px;
+  width: 600px;
+  margin: 20px;
+  font-size: 0;
+  background: hsl(140, 70%, 10%);
+}
+
+.shape {
+  width: 0;
+  height: 0;
+  display: inline-block;
+  border-left: 200px solid hsl(140, 70%, 35%);
+  border-top: 200px solid transparent;
+}
+
+
+
