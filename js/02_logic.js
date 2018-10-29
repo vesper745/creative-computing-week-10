@@ -12,3 +12,15 @@ function hslColor(h, s, l) {
 
   return color;
 }
+
+
+
+
+
+/* TO DO */
+
+// 1. Select container element
+// 2. Add 2000 divs with the class "shape" to container
+// 3. Create div element with a class "shape"
+// 4. Add div to container
+// 5. Add variation classes based on counter
